@@ -3,4 +3,4 @@
 - A simple react project
 - Responsive ✅
 - Work in progress 🚧
-- Check live site @
+- Check live site @ https://bellacooks.netlify.app/
